@@ -1,0 +1,17 @@
+{
+  "name": "facturista",
+  "version": "0.0.0",
+  "authors": [
+    "Martin Granados <margrangr@gmail.com>"
+  ],
+  "description": "frontend facturista",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
